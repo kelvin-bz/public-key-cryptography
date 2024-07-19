@@ -1,0 +1,17 @@
+{
+  "name": "public-key-cryptography",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "encryption": "node encryption.js",
+    "signing": "node signing.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
